@@ -1,0 +1,31 @@
+review,sentiment,category
+"Food is very tasty",Positive,Food
+"Excellent food quality",Positive,Food
+"Food is delicious",Positive,Food
+"I love the food here",Positive,Food
+"Food is fresh and amazing",Positive,Food
+"Food quality is very poor",Negative,Food
+"Food is not tasty",Negative,Food
+"The food was terrible",Negative,Food
+"Room is very clean",Positive,Room
+"Excellent room service",Positive,Room
+"The room is comfortable",Positive,Room
+"Beautiful and clean room",Positive,Room
+"Room is very dirty",Negative,Room
+"AC is not working",Negative,Room
+"The room smells bad",Negative,Room
+"Room service is very poor",Negative,Room
+"Staff are very friendly",Positive,Staff
+"Excellent customer service",Positive,Staff
+"Staff helped me quickly",Positive,Staff
+"Very polite employees",Positive,Staff
+"Staff behavior is rude",Negative,Staff
+"Employees are not helpful",Negative,Staff
+"Staff service is terrible",Negative,Staff
+"Very bad staff behavior",Negative,Staff
+"Billing process is okay",Neutral,Billing
+"The food was average",Neutral,Food
+"Room is okay",Neutral,Room
+"Service was normal",Neutral,Staff
+"Nothing special about the hotel",Neutral,Other
+"Overall experience was average",Neutral,Other
